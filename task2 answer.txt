@@ -1,0 +1,15 @@
+  
+Task 2: 
+
+1. Feasibility – yes, it is possible even it is not a difficult task check the methodology .
+
+
+2. Methodology – 1. first we capture the frame from the video to get image or screenshot as different frame . 
+
+
+		             2. then we apply image captioning or object detection then tagging  in image to classify them in some tags. 
+        
+
+		             3. now taking the maximum frequency tag from the above tags 
+
+3. Challenges- sometimes captured frame does not contain the need information , image captioning  Is not that much accurate  .
